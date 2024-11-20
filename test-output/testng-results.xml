@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T12:19:44 IST" name="Default suite" finished-at="2024-10-23T12:19:59 IST" duration-ms="14503">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T12:19:44 IST" name="Default test" finished-at="2024-10-23T12:19:59 IST" duration-ms="14503">
+      <class name="Default.Demo">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:Default.Demo@51e69659]" started-at="2024-10-23T12:19:44 IST" name="initialise" finished-at="2024-10-23T12:19:52 IST" duration-ms="7571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="login()[pri:0, instance:Default.Demo@51e69659]" started-at="2024-10-23T12:19:52 IST" name="login" finished-at="2024-10-23T12:19:58 IST" duration-ms="6531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="finalise()[pri:0, instance:Default.Demo@51e69659]" started-at="2024-10-23T12:19:58 IST" name="finalise" finished-at="2024-10-23T12:19:59 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalise -->
+      </class> <!-- Default.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
